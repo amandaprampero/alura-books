@@ -29,3 +29,36 @@
     font-size: 14px;
     font-weight: 700;
 }
+
+@media screen and (min-width: 1024px) {
+    .topics__title {
+        font-size: 1.5rem;
+        margin-top: 1rem;
+        margin: 1rem 0 2.5rem 0;
+    }
+
+    .topics__link {
+        font-size: 1.5rem;
+        padding: 1.5rem 2rem;
+    }
+
+    .topics__link:hover {
+        transition: 0.3s;
+        padding: 1.6rem 2.1rem;
+        box-shadow: 5px 5px 10px var(--light-orange);
+    }
+
+    .topics__list {
+        gap: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .topics {
+        padding: 3rem 25vw;
+    }
+
+    .topics__title {
+        font-size: 2rem;
+    }
+}

@@ -9,8 +9,11 @@
     --back-color: #EBECEE;
     --white: #FFFFFF;
     --orange: #EB9B00;
+    --light-orange: #fccf75;
     --dark-blue: #002F52;
     --black: #000000;
+    --light-gray: #858585;
+    --gray: #474646;
     --gradient-blue: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --font: "Poppins", serif;
     --font-brand: "Josefin Sans", serif;

@@ -33,3 +33,35 @@
     background: url("../assets/search.svg") no-repeat;
     background-position: 0.2rem;
 }
+
+@media screen and (min-width: 1024px) {
+    .banner {
+        padding: 5.25rem 2rem;
+    }
+
+    .banner__title {
+        font-size: 2rem;
+    }
+
+    .banner__search {
+        width: 50%;
+    }
+
+    .banner__search::placeholder {
+        background-position: 4.5rem;
+    }
+}
+
+@media screen and (min-width: 1728px) {
+    .banner__search {
+        width: 30%;
+    }
+
+    .banner__search::placeholder {
+        background-position: 8rem;
+    }
+
+    .banner {
+        padding: 5.5rem 0;
+    }
+}
