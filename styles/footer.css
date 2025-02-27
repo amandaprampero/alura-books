@@ -7,6 +7,10 @@ hr {
     padding: 1.5rem;
 }
 
+.footer__list {
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
     .footer {
         padding: 3.8rem 1.5rem;
