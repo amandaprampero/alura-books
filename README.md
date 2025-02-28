@@ -1,6 +1,6 @@
 # 📚 AluraBooks
 
-Projeto desenvolvido durando o curso de mobile-first da Alura.
+Projeto desenvolvido durante o curso de mobile-first da Alura.
 
 AluraBooks é uma plataforma de e-commerce dedicada à venda de livros sobre tecnologia, disponível nas versões para desktop, tablet e dispositivos móveis.
 
